@@ -1,0 +1,2 @@
+export const INC_COUNT_VALUE = 'INC_COUNT_VALUE';
+export const DEC_COUNT_VALUE = 'DEC_COUNT_VALUE';
